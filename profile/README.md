@@ -17,6 +17,15 @@
 
 ---
 
+## From your terminal
+
+| Package | What it does |
+|---|---|
+| [`@mesrai/cli`](https://www.npmjs.com/package/@mesrai/cli) | AI code review before you push, in CI, or on any branch — `npm install -g @mesrai/cli` |
+| [`@mesrai/mesrai-graph`](https://www.npmjs.com/package/@mesrai/mesrai-graph) | MIT-licensed code graph builder: calls, imports and inheritance across 15 languages |
+
+---
+
 ## Mesrai in 30 seconds
 
 Mesrai connects to your GitHub, GitLab, Bitbucket, or Azure Repos and reviews every PR with specialised AI agents:
